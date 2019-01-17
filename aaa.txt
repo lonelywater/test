@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello World£¡
 hello World!
+=======
+hello World
+Hello APPLE£¡
+>>>>>>> a785bc360f0d8e323b8931669d47f47ae65fbeb1
